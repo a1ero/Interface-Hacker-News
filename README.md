@@ -8,7 +8,8 @@ test-avito-tech — интерфейс для сайта Hacker News. Разра
 - В Visual Code открываем терминал (ctrl+`)
 - Выбираем в терминале *PowerShell*
 - В терминале пишем команду `yarn start`
-***Если появилась ошибка выполнения сцинариев, то запускаем PowerShell от имени Администратора, прописываем команду `Set-ExecutionPolicy Unrestricted -Scope CurrentUser`, жмем Y и Enter***
+###
+*Если появилась ошибка выполнения сцинариев, то запускаем PowerShell от имени Администратора, прописываем команду `Set-ExecutionPolicy Unrestricted -Scope CurrentUser`, жмем Y и Enter*
 
 Приложение запускается в режиме разработки.\
 Откройте [http://localhost:3000], чтобы просмотреть его в браузере.
