@@ -1,6 +1,6 @@
 # React и Redux
 
-test-avito-tech — интерфейс для сайта Hacker News. Разработан с помощью react-redux с пакетным менеждером Yarn.
+test-from-avito — интерфейс для сайта Hacker News. Разработан с помощью react-redux с пакетным менеждером Yarn.
 UI от react-bootstrap
 
 ## Инструкция по запуску приложения
