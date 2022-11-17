@@ -13,7 +13,7 @@ UI от react-bootstrap
 
 # Для работы проекта нужно установить Node-модули:
 - Убедитесь, что у вас установлен Node.js
-*если не установлен скачиваем Node.js с официального сайта https://nodejs.org/en/download/*
+*если не установлен скачиваем Node.js с официального сайта* https://nodejs.org/en/download/
 - В Visual Studio Code открываем терминал (ctrl+`)
 - Выбираем терминал **PowerShell** или **Command Prompt**
    (**Terminal** для macOS)
