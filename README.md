@@ -10,7 +10,7 @@ UI от react-bootstrap
 - Нажимаем на Clone from GitHub
 - Вставляем ссылку на репозиторий https://github.com/a1ero/test-from-avito
 - Выбираем любое место на компьютере, нажимаем на **Select Repository Location** (открывается папка с проектом)
-- 
+
 # Для работы проекта нужно установить Node-модули:
 - Убедитесь, что у вас установлен Node.js
 *если не установлен скачиваем Node.js с официального сайта https://nodejs.org/en/download/*
