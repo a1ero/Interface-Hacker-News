@@ -1,6 +1,6 @@
-# React и Redux
+# test-from-avito
 
-test-from-avito — интерфейс для сайта Hacker News. Разработан с помощью react-redux с пакетным менеждером Yarn.
+Интерфейс для сайта Hacker News. Разработан с помощью react-redux с пакетным менеждером Yarn.
 UI от react-bootstrap
 
 ## Инструкция по запуску приложения
@@ -11,7 +11,7 @@ UI от react-bootstrap
 - Вставляем ссылку на репозиторий :[https://github.com/a1ero/test-from-avito]
 - Выбираем любое место на компьютере, нажимаем на Select Repository Location (открывается папка с проектом)
 
-### Для работы проекта нужно установить Node-модули:
+## Для работы проекта нужно установить Node-модули:
 - Убедитесь, что у вас установлен Node.js
 *если не установлен скачиваем Node.js с оффициального сайта [https://nodejs.org/en/download/]*
 - В Visual Studio Code открываем терминал (ctrl+`)
