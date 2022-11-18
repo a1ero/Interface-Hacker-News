@@ -8,7 +8,7 @@ UI от react-bootstrap
 - Открываем Visual Studio Code  
 - В начальном окне выбираем раздел **Клонирование репозитория GitHub**.  
 - Нажимаем на Clone from GitHub  
-- Вставляем ссылку на репозиторий https://github.com/a1ero/test-from-avito  
+- Вставляем ссылку на репозиторий https://github.com/a1ero/ui-for-hn    
 - Выбираем любое место на компьютере, нажимаем на **Select Repository Location** (открывается папка с проектом)
 
 ### Для работы проекта нужно установить Node-модули:
