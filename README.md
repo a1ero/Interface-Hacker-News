@@ -1,4 +1,4 @@
-# test-from-avito
+# ui-for-hn
 
 Интерфейс для сайта Hacker News. Разработан с помощью react-redux с пакетным менеждером Yarn.
 UI от react-bootstrap
