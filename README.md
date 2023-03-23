@@ -1,4 +1,4 @@
-# ui-for-hn
+# Interface-Hacker-News
 
 Интерфейс для сайта Hacker News. Разработан с помощью react-redux с пакетным менеждером Yarn.
 UI от react-bootstrap
